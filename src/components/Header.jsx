@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import logo from "../images/logo.svg";
+import logo from "../images/logo-mastercraft.svg";
 
 function Header(props) {
 
